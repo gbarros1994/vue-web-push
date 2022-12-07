@@ -1,4 +1,4 @@
-# vue-web-push
+# Web Push
 
 ## Project setup
 ```
